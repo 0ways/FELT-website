@@ -1,0 +1,77 @@
+body {
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: Helvetica, Arial, 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro W3', 'メイリオ', 'Meiryo', sans-serif;
+}
+
+.bk {
+	height: 600px;
+}
+
+.trackname {
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+h2 {
+	font-family: Georgia;
+	font-size: 4.2em;
+	text-shadow: 3px 3px 7px #888;
+}
+
+h4 {
+	margin: 32px 0 -4px 4px; 
+	font-size:110%;
+	border-bottom: 1px solid #888;
+}
+
+table {
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-color: grey;
+    font-size: 0.72em;
+    line-height: 1.9em;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+#copy {
+	height: 33px;
+}
+
+h3 {
+	border-bottom-style: solid;
+	border-width: thin;
+}
+
+#id {
+	font-weight: bold;
+	margin-left: -20px;
+}
+
+#time {
+	font-size: 0.8em;
+	color: #666;
+}
+
+.response {
+	margin-left: 20px;
+	border-top-style: solid;
+	border-width: thin;
+}
+
+#zhushi {
+	color: #888;
+	font-size: 0.8em;
+}

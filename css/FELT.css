@@ -1,0 +1,73 @@
+body {
+	margin-left: 40px;
+	margin-right: 40px;
+	font-family: Arial;
+	background-image: url(../bk/FELT017.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+	background-position: 40% 40%;
+}
+
+h1 {
+	font-size: 9em;
+	color: #FFF;
+	text-align: center;
+	text-shadow: 0px 0px 12px #777;
+}
+
+p {
+	font-family: 微软雅黑;
+	color: #FFF;
+}
+
+.intro {
+	font-size: 1.4em;
+	text-shadow: 0px 0px 9px #111;
+}
+
+a {
+	text-decoration: none;
+	color: #A2A;
+}
+
+.album {
+	color: #A0A;
+	border-width: thin;	
+	border-bottom-style: solid;
+	margin-left: 80px;
+	margin-right: 80px;
+	line-height: 1.6;
+}
+
+.album h2 {
+	padding-left: 45px;
+	font-family: Georgia;
+	font-size: 2.1em;
+	text-shadow: 1px 1px 3px #888;
+}
+
+#sign {
+	padding-left: 0px;
+	font-family: "Courier New";
+}
+
+#bk {
+	float: right;
+	margin-left: 120px;
+	height: 300px;
+}
+
+.footer {
+	text-align: center;
+}
+
+.link {
+	font-size: 1.2em;
+}
+
+.end {
+	color: #777777;
+	font-size: x-small;
+	line-height: 0.2;
+}
